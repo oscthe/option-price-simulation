@@ -12,7 +12,7 @@ pip install [to_be_filled]
 ```python
 import numpy as np
 import pandas as pd
-from BlackScholes import OptionSimulator
+from models.BlackScholes import OptionSimulator
 
 # prepare simulator by making numpy arrays of preferred intervals
 
