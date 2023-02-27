@@ -1,6 +1,6 @@
 # option-price-simulation
 
-A module for pricing and simulating option prices. Currently, the Black Scholes model is the only model available.
+A module for pricing and simulating option prices, volatility smiles and volatility surfaces. Currently, the Black Scholes model is the only model available.
 
 ### Installation
 
